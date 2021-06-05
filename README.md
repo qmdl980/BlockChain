@@ -1,9 +1,9 @@
 # Pet-shop dapp Custom
-BlockChain lecture in Korea Aerospace University
+### BlockChain lecture in Korea Aerospace University
 
 pet-shop dapp은 Truffle에서 제공하는 Tutorial dapp이다
 
-#Custom 내용
+# Custom 내용
 1. Smart contract인 Adoption.sol 작성
    - adopt함수를 이용하여 입양을 할수 있게끔 설정
    - getAdopters함수를 이용하여 입양해간 계좌주소를 볼 수 있음
