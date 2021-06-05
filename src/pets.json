@@ -1,0 +1,130 @@
+[
+  {
+    "id": 0,
+    "name": "코코",
+    "picture": "images/korean-short-hair.jpg",
+    "age": 3,
+    "breed": "코리안 숏헤어",
+    "location": "서울"
+  },
+  {
+    "id": 1,
+    "name": "미미",
+    "picture": "images/russian-blue.jpg",
+    "age": 3,
+    "breed": "러시안 블루",
+    "location": "서울"
+  },
+  {
+    "id": 2,
+    "name": "나나",
+    "picture": "images/turkish-angora.jpg",
+    "age": 2,
+    "breed": "터키쉬 앙고라",
+    "location": "서울"
+  },
+  {
+    "id": 3,
+    "name": "콩",
+    "picture": "images/korean-short-hair.jpg",
+    "age": 2,
+    "breed": "코리안 숏헤어",
+    "location": "서울"
+  },
+  {
+    "id": 4,
+    "name": "찌루",
+    "picture": "images/persian.jpeg",
+    "age": 2,
+    "breed": "페르시안",
+    "location": "서울"
+  },
+  {
+    "id": 5,
+    "name": "모루",
+    "picture": "images/turkish-angora.jpg",
+    "age": 3,
+    "breed": "터키쉬 앙고라",
+    "location": "서울"
+  },
+  {
+    "id": 6,
+    "name": "모모",
+    "picture": "images/persian.jpeg",
+    "age": 3,
+    "breed": "페르시안",
+    "location": "서울"
+  },
+  {
+    "id": 7,
+    "name": "라라",
+    "picture": "images/russian-blue.jpg",
+    "age": 3,
+    "breed": "러시안 블루",
+    "location": "서울"
+  },
+  {
+    "id": 8,
+    "name": "페퍼",
+    "picture": "images/turkish-angora.jpg",
+    "age": 2,
+    "breed": "터키쉬 앙고라",
+    "location": "서울"
+  },
+  {
+    "id": 9,
+    "name": "하이",
+    "picture": "images/persian.jpeg",
+    "age": 3,
+    "breed": "페르시안",
+    "location": "서울"
+  },
+  {
+    "id": 10,
+    "name": "브랜디",
+    "picture": "images/russian-blue.jpg",
+    "age": 2,
+    "breed": "러시안 블루",
+    "location": "서울"
+  },
+  {
+    "id": 11,
+    "name": "아리",
+    "picture": "images/korean-short-hair.jpg",
+    "age": 3,
+    "breed": "코리안 숏헤어",
+    "location": "서울"
+  },
+  {
+    "id": 12,
+    "name": "코코",
+    "picture": "images/russian-blue.jpg",
+    "age": 3,
+    "breed": "러시안 블루",
+    "location": "서울"
+  },
+  {
+    "id": 13,
+    "name": "로미오",
+    "picture": "images/persian.jpeg",
+    "age": 4,
+    "breed": "페르시안",
+    "location": "서울"
+  },
+  {
+    "id": 14,
+    "name": "새미",
+    "picture": "images/korean-short-hair.jpg",
+    "age": 2,
+    "breed": "코리안 숏헤어",
+    "location": "서울"
+  },
+  {
+    "id": 15,
+    "name": "그레이시",
+    "picture": "images/korean-short-hair.jpg",
+    "age": 2,
+    "breed": "코리안 숏헤어",
+    "location": "서울"
+  }
+]
